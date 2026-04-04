@@ -257,3 +257,7 @@ Se você se interessa por:
 
 acompanhe o repositório, abra issues com ideias, dúvidas, críticas e relatos de testes.  
 A documentação e a arquitetura são **documentos vivos**, e a comunidade faz parte dessa construção.
+
+For business/commercial use by companies, please see `COMMERCIAL.md`.
+
+contato: infornetico@hotmail.com 
